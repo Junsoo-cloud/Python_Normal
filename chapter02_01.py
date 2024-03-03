@@ -1,6 +1,5 @@
 # Chpater02-01
 # python class
-
 '''
 OOP(Object Oriented Programming) : reuse of code, prevent resubmission of code, proper to big-scale project, easy to maintain
 In python, class main -> data main -> manage to object

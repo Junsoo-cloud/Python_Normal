@@ -54,3 +54,4 @@ Car.price_per_raise = 1.4
 
 print(car1.get_price_culc())
 print(car2.get_price_culc())
+# d
